@@ -1,0 +1,11 @@
+
+print(f"\n{"="*12} SELAMAT DATANG DI MENU VOTING {"="*12}")
+print(f"\n{"-"*21}| Kandidat |{"-"*21}")
+print("-"*50)
+print("{:<0} {:<5} {:<0} {:<38} {:<0}".format("|","No","|", "Pilihan Kandidat", "|"))
+print("-"*50)
+print("{:<0} {:<5} {:<0} {:<38} {:<0}".format("|","1","|", "Jean", "|"))
+print("{:<0} {:<5} {:<0} {:<38} {:<0}".format("|","2","|", "Kevin", "|"))
+print("{:<0} {:<5} {:<0} {:<38} {:<0}".format("|","2","|", "Agus", "|"))
+print("{:<0} {:<5} {:<0} {:<38} {:<0}".format("|","2","|", "Exit", "|"))
+print("-"*50)
